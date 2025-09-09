@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **venkat.chavan.n@gmail.com**
 
-- 📄 Know about my experiences [https://venkatchavan.github.io/VC_portfolio/](https://venkatchavan.github.io/VC_portfolio/)
+- 📄 Know about my experiences [https://venkatchavan.github.io/portfolio_vc/](https://venkatchavan.github.io/portfolio_vc/)
 
 - ⚡ Fun fact **More interested in Motor Sport Analytics**
 
