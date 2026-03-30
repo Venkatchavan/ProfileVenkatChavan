@@ -7,7 +7,7 @@
 
 - 🔭 Currently building **VedaNet** a neuro-symbolic reasoning framework grounded in Sanskrit epistemology (Nyaya Pramana, Advaita Vedanta), targeting EMNLP 2026
 
-- 📝 Authored **GatConvo** (Coordinated MARL for autonomous vehicles, submitted to IEEE TIV), **H-RAG** (Hierarchical RAG for Cyber Threat Intelligence, presented at ICSDSA 2026), and **RAG-Guard** (adversarial defense for LLM pipelines)
+- 📝 Authored **GatConvo** (Coordinated MARL for autonomous vehicles, submitted to IEEE TTS), **H-RAG** (Hierarchical RAG for Cyber Threat Intelligence, presented at ICSDSA 2026), and **RAG-Guard** (adversarial defense for LLM pipelines)
 
 - 🧪 Building **SanskritEval** an LLM evaluation benchmark for Sanskrit NLP tasks
 
